@@ -1,6 +1,6 @@
 ## Usage
 
-         $ git clone ...
+         $ git clone git://github.com/mtkopone/sbt-scalatra-template.git
          $ cd sbt-scalatra-template
          $ sbt update
          $ sbt jetty
